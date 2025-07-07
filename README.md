@@ -25,13 +25,13 @@ cd your-repo
 ### Installation
 
 npm install
-# or
+- or -
 yarn install
 
 ### Development
 
 npm run dev
-# or
+- or -
 yarn dev
 
 

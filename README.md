@@ -18,8 +18,8 @@
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://https://github.com/bscoutinho/bookstore-frontend.git
+cd bookstore-frontend
 ```
 
 ### Installation
@@ -33,5 +33,9 @@ yarn install
 npm run dev
 - or -
 yarn dev
+
+### Running
+
+https://localhost:3000
 
 

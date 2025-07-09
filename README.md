@@ -18,7 +18,7 @@
 ### Installation
 
 ```bash
-git clone https://https://github.com/bscoutinho/bookstore-frontend.git
+git clone https://github.com/bscoutinho/bookstore-frontend.git
 cd bookstore-frontend
 ```
 
